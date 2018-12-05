@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CZCommonBaseComponent_Example' do
+  pod 'CZCommonBaseComponent', :path => '../'
+
+  target 'CZCommonBaseComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
