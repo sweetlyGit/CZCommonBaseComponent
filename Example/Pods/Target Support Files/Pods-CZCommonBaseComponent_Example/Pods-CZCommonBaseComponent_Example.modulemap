@@ -1,0 +1,6 @@
+framework module Pods_CZCommonBaseComponent_Example {
+  umbrella header "Pods-CZCommonBaseComponent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

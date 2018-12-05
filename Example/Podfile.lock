@@ -1,0 +1,16 @@
+PODS:
+  - CZCommonBaseComponent (0.1.0)
+
+DEPENDENCIES:
+  - CZCommonBaseComponent (from `../`)
+
+EXTERNAL SOURCES:
+  CZCommonBaseComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZCommonBaseComponent: 24d6ae8f78e0ad20089229b258e432c001750f84
+
+PODFILE CHECKSUM: ea290b1af48c38e219770e42ed0e7321f443fed2
+
+COCOAPODS: 1.5.3

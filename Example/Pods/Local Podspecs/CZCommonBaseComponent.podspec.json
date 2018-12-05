@@ -1,0 +1,22 @@
+{
+  "name": "CZCommonBaseComponent",
+  "version": "0.1.0",
+  "summary": "A short description of CZCommonBaseComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangtiantian/CZCommonBaseComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangtiantian": "2235861673@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangtiantian/CZCommonBaseComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CZCommonBaseComponent/Classes/**/*"
+}

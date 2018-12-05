@@ -1,0 +1,6 @@
+framework module CZCommonBaseComponent {
+  umbrella header "CZCommonBaseComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
